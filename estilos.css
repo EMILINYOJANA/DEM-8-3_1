@@ -12,7 +12,12 @@
      
 }
 body{
-    background-image: url("fondo.jpg");
+    background-image: url("Fondito.jpg");
     background-repeat: no-repeat;
 
+} 
+.titulo{ 
+ font-size: 30px;
+ color: rgb(107, 76, 137);
+ text-align: center;
 }
